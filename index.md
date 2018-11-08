@@ -9,15 +9,18 @@ Trinity CTF 2nd is going to be held 9:00 am - 18:00 pm (9 hours), Dec.22nd, 2018
 The challenge types includes:
 1. Web
 2. Pwn
-3. Reverse Engineer
+3. Reverse Engineering
 4. Crypto
 5. Misc
 
 We will try our best to bring you an amazing CTF game like a hacker party ! Please keep an eye on our homepage!
 
+## Prize
+Top six players will get a prize
+
 ## How to register
 This is yet to be decided....
-
+* * *
 ## Who are we?
 
-We are students from Nanjing University in China. We are a group of people that love hacking technology and playing CTFs.
+We are students from Nanjing University of China. We are a group of people that love hacking technology and playing CTFs.
