@@ -16,10 +16,18 @@ The challenge types includes:
 We will try our best to bring you an amazing CTF game like a hacker party ! Please keep an eye on our homepage!
 
 ## Prize
-Top six players will get a prize
+
+`Champion`: Kindle E-reader
+`2nd,3rd`: Raspberry Pi
+`4th-6th`: USB Flash Disk
 
 ## How to register
 This is yet to be decided....
+
+## Who can participate
+
+This CTF is only for students in Nanjing University only.
+
 * * *
 ## Who are we?
 
