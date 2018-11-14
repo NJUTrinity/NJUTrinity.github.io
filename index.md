@@ -4,7 +4,7 @@ layout: default
 
 # Trinity CTF 2nd is Coming....
 
-Trinity CTF 2nd is going to be held 9:00 am - 18:00 pm (9 hours), Dec.22nd, 2018. The CTF this year will be also a jeopardy one.
+Trinity CTF 2nd is going to be held 9:00 am - 18:00 pm (9 hours, lunchs are provide!), Dec.22nd, 2018. The CTF this year will be also a jeopardy one.
 
 The challenge types includes:
 1. Web
@@ -21,8 +21,14 @@ We will try our best to bring you an amazing CTF game like a hacker party ! Plea
 `2nd,3rd`: Raspberry Pi
 `4th-6th`: USB Flash Disk
 
-## How to register
-This is yet to be decided....
+## How to participate
+Send your information in the following format:
+`姓名 学号 院系`
+to `NJUTrinity@outlook.com`
+
+The deadline is Dec. 20th.
+
+If you have any question , feel free to contact us with the same email.
 
 ## Who can participate
 
