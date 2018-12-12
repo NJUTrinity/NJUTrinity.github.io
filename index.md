@@ -18,7 +18,9 @@ We will try our best to bring you an amazing CTF game like a hacker party ! Plea
 ## Prize
 
 `Champion`: Go-Bigger 15.6 inch portable display screen(够逼格便携式显示屏)
+
 `2nd,3rd`: Raspberry Pi
+
 `4th-6th`: USB Flash Disk
 
 ## How to participate
