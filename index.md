@@ -4,7 +4,7 @@ layout: default
 
 # Trinity CTF 2nd is Coming....
 
-Trinity CTF 2nd is going to be held 13:00 am - 18:00 pm (5 hours, snacks are provide!), Dec.22nd, 2018. The CTF this year will be also a jeopardy one.
+Trinity CTF 2nd is going to be held at 13:00 pm - 18:00 pm (5 hours, snacks are provide!), Dec.22nd, 2018. The CTF this year will be also a jeopardy one.
 
 The challenge types includes:
 1. Web
