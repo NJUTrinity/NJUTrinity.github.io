@@ -39,6 +39,7 @@ For more information, please join QQ group `826930218`.
 
 This CTF is only for students in Nanjing University only. Please enjoy it like a party!
 
+![](http://thyrsi.com/t6/631/1544614668x2890237711.jpg)
 * * *
 ## Who are we?
 
