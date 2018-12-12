@@ -4,7 +4,7 @@ layout: default
 
 # Trinity CTF 2nd is Coming....
 
-Trinity CTF 2nd is going to be held 9:00 am - 18:00 pm (9 hours, lunchs are provide!), Dec.22nd, 2018. The CTF this year will be also a jeopardy one.
+Trinity CTF 2nd is going to be held 13:00 am - 18:00 pm (5 hours, snacks are provide!), Dec.22nd, 2018. The CTF this year will be also a jeopardy one.
 
 The challenge types includes:
 1. Web
@@ -17,11 +17,12 @@ We will try our best to bring you an amazing CTF game like a hacker party ! Plea
 
 ## Prize
 
-`Champion`: Kindle E-reader
+`Champion`: Go-Bigger 15.6 inch portable display screen(够逼格便携式显示屏)
 `2nd,3rd`: Raspberry Pi
 `4th-6th`: USB Flash Disk
 
 ## How to participate
+
 Send your information in the following format:
 `姓名 学号 院系`
 to `NJUTrinity@outlook.com`
@@ -30,9 +31,11 @@ The deadline is Dec. 20th.
 
 If you have any question , feel free to contact us with the same email.
 
+For more information, please join QQ group `826930218`.
+
 ## Who can participate
 
-This CTF is only for students in Nanjing University only.
+This CTF is only for students in Nanjing University only. Please enjoy it like a party!
 
 * * *
 ## Who are we?
